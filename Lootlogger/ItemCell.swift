@@ -5,4 +5,8 @@
 //  Created by Brittany on 10/19/25.
 //
 
-import Foundation
+import UIKit
+
+class ItemCell: UITableViewCell {
+
+}
