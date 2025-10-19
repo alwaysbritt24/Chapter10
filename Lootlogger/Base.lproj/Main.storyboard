@@ -81,6 +81,11 @@
                                         <constraint firstAttribute="bottom" secondItem="dIg-X7-RJZ" secondAttribute="bottom" constant="6" id="zi0-KL-xwD"/>
                                     </constraints>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="nameLabel" destination="E7r-Ev-kMQ" id="QoW-vX-2zo"/>
+                                    <outlet property="serialNumberLabel" destination="dIg-X7-RJZ" id="zZf-H3-J2C"/>
+                                    <outlet property="valueLabel" destination="fmN-8f-Jh3" id="b7y-Cn-yVy"/>
+                                </connections>
                             </tableViewCell>
                         </prototypes>
                         <connections>
